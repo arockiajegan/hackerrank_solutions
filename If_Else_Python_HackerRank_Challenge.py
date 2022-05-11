@@ -1,3 +1,7 @@
+#Script Author : AROCKIA JEGAN F
+#visit_me @ www.arcokiajegan.com
+#Description --> Performing If/Else operation to find a value comes under Weird/Not Weird with certain condtions
+
 n = int(input())
 if n % 2 == 1: 
     print ("Weird")
