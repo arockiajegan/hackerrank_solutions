@@ -1,7 +1,12 @@
+#Script Author : AROCKIA JEGAN F
+#visit_me @ www.arcokiajegan.com
+#Description --> Return true if entered year is leap year
+
+
 def is_leap(year):
     leap = False
     
-    # Write your logic here
+    # logic here
     if year % 4 ==0  and year % 400==0:
         print.is_leap ("True")
     if year % 100 == 0 and year % 400 ==0:
