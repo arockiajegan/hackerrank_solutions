@@ -5,9 +5,9 @@
 
 def is_leap(year):
     leap = False
-    
-    # logic here
-    if year % 4 ==0  and year % 400==0:
+
+    # Write your logic here
+    if year % 4 ==0  and year % 400!=0:
         print.is_leap ("True")
     if year % 100 == 0 and year % 400 ==0:
         print.is_leap("True")
